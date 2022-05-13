@@ -1,0 +1,7 @@
+2022-05-09 13:02:27,390 [main] INFO  bootstrap.Driver - Maze and walls generated
+2022-05-09 13:02:27,408 [main] INFO  domain.Astar - Current Cell :3g, h , f :0.0, 70.0, 70.0
+2022-05-09 13:02:27,410 [main] INFO  domain.Astar - Current Cell :14g, h , f :14.0, 56.0, 70.0
+2022-05-09 13:02:27,411 [main] INFO  domain.Astar - Current Cell :25g, h , f :28.0, 42.0, 70.0
+2022-05-09 13:02:27,411 [main] INFO  domain.Astar - Current Cell :36g, h , f :42.0, 28.0, 70.0
+2022-05-09 13:02:27,412 [main] INFO  domain.Astar - Current Cell :47g, h , f :56.0, 14.0, 70.0
+2022-05-09 13:02:27,413 [main] INFO  domain.Astar - Current Cell :58g, h , f :70.0, 0.0, 70.0
